@@ -1,0 +1,9 @@
+{
+	"name": "azuredfspotify",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45b7212c-b593-4647-ad64-aa36aaa25217",
+		"tenantId": "194a0b5d-1587-4420-badd-9680adee61ed"
+	}
+}

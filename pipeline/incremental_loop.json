@@ -9,7 +9,8 @@
 					{
 						"activity": "Alerts",
 						"dependencyConditions": [
-							"Failed"
+							"Failed",
+							"Succeeded"
 						]
 					}
 				],
